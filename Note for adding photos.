@@ -1,0 +1,4 @@
+To approve, you go to the GitHub repo github.com/lumbeeheritageapp/lumbee-heritage-photos and do two things: 
+(a) open the photos/ folder and upload the image there, and (b) edit photos.json to add an entry — 
+{ "image": "filename.jpg", "date": "YYYY-MM-DD", "comment": "..." } — making sure the filename matches 
+exactly and the JSON stays valid. Commit both.
