@@ -7,5 +7,14 @@
     "longitude": -79.110683,
     "description": "Road",
     "address": "598 Hilly Branch Rd, Lumberton, NC 28360"
+  },
+  {
+    "id": "community-test-mwmj3hb0",
+    "category": "Historic",
+    "name": "Test",
+    "latitude": 34.607268,
+    "longitude": -79.15522,
+    "description": "Test",
+    "address": "JR4V+WW Lumberton, NC"
   }
 ]
