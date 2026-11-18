@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "community-road-mwmj6m2i",
+    "category": "Historic",
+    "name": "Road",
+    "latitude": 34.596482,
+    "longitude": -79.110683,
+    "description": "Road",
+    "address": "598 Hilly Branch Rd, Lumberton, NC 28360"
+  }
+]
